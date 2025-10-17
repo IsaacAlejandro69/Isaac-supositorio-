@@ -25,3 +25,20 @@ th, td {
 th {
     background-color: #e0e0e0;
 }
+
+.turnos {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.turnos ul {
+    margin-top: 10px;
+}
+
+.nota {
+    color: #666;
+    font-size: 0.9em;
+}
